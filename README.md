@@ -1,2 +1,2 @@
 # FlowPHP
-Light PHP5 Framework
+Light PHP5 Micro-Framework
