@@ -1,0 +1,12 @@
+.upload-button-wrapper{
+    text-align: center;
+    margin: 10px 0;
+}
+
+.image-wr{
+    margin: 0 0 8px 8px;
+    display: inline-block;
+    vertical-align: bottom;
+    overflow: hidden;
+    outline: 1px solid red;
+}
